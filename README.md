@@ -12,3 +12,6 @@ https://link.springer.com/chapter/10.1007%2F978-981-33-6691-6_17
 4. The same steps apply for cnnInceptionV3.py file.
 
 If importing keras.processing gives an error, try keras_processing.
+
+## Dataset
+![dataset](https://github.com/jackfrost1411/covid-19_diagnosis/dataset.png)
