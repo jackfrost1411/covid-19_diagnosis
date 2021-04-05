@@ -7,9 +7,9 @@ https://link.springer.com/chapter/10.1007%2F978-981-33-6691-6_17
 ## Instructions:
 ### Training
 1. To train the CNN3 model switch to the repository after clonning.
-2. Run `python cnnCOVID.py`
+2. Run `python TrainCNN.py`
 3. The model will be saved once the training is finished.
-4. The same steps apply for cnnInceptionV3.py file.
+4. The same steps apply for TrainInceptionV3.py file.
 
 If importing keras.processing gives an error, try keras_processing.
 
